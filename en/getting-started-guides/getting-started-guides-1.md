@@ -24,4 +24,6 @@ An introduction Edited from Git
 
 [d360]: # "/heading"
 
-A sample statement Edited from IE. Make one last edit 
+A sample statement Edited from IE. Make one last edit
+
+[d360]: # 'snippet name="V1Snippet"'
