@@ -16,7 +16,7 @@ feedback:
 
 [d360]: # "/heading"
 
-An introduction
+An introduction Edited from Git
 
 [d360]: # 'heading id="test"'
 
