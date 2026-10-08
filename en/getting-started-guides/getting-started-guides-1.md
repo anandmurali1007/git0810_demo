@@ -18,6 +18,8 @@ feedback:
 
 An introduction Edited from Git
 
+![](assets/PDF/plausible.png){width="1254" height="1254" shadow="no" border="no" round="no"}
+
 [d360]: # 'heading id="test"'
 
 ## Test
